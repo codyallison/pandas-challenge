@@ -1,0 +1,13 @@
+PyCity Schools Analysis:
+
+1. Overall I believe we see two clear markers of success
+-Charter schools outperformed District schools consistently
+-Small to medium size schools out performed larger schools. 
+
+2. Spending per student does not seem to have a clear advantage. Its in fact the schools that spend less per student have higher scores. 
+-however most of those lower per student spending schools are also charter schools. 
+
+3. School performance seems consistent across grades. 9th-12th all seem to have consistent scores
+
+In my analysis I believe that the smaller schools are seeing the greatest success. Most of these smaller schools also happen to be charter schools. 
+It would be interesting to analyze charter school practices vs similarly sized district school to see if this is a better indicator of successful test scores. 

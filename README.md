@@ -5,7 +5,7 @@ This excercise serves to analyze a fictional set of schools reading and math sco
 
 If you have access to Jupyter Notebook you may launch the file as is in your notebook. If you would like to review the code as a raw python file you may convert the file to a .py and launch and run in the editor of your choice. 
 
-an analysis of the data is provided at the top of the PyCitySchool file
+an analysis of the data is provided in a separate file in the main directory
 
 Code by Cody Allison for purposes of edX boot camp/Washington University in Saint Louis.
 
